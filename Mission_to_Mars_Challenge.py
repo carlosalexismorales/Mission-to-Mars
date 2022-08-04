@@ -119,7 +119,7 @@ df.head()
 # In[14]:
 
 
-df.columns=['Description', 'Mars', 'Earth']
+df.columns = ['Description', 'Mars', 'Earth']
 df.set_index('Description', inplace=True)
 df
 
@@ -137,7 +137,7 @@ df.to_html()
 # In[24]:
 
 
-# 1. Use browser to visit the URL 
+# 1. Use browser to visit the URL
 url = 'https://marshemispheres.com/'
 
 browser.visit(url)
@@ -151,9 +151,9 @@ hemisphere_image_urls = []
 
 # 3. Write code to retrieve the image urls and titles for each hemisphere.
 for i in range(4):
-    
+
     hemispheres = {}
-    
+
     browser.find_by_css('a.product-item h3')[i].click()
     element = browser.links.find_by_text('Sample').first
     img_url = element['href']
@@ -179,7 +179,3 @@ browser.quit()
 
 
 # In[ ]:
-
-
-
-
