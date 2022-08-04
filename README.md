@@ -72,5 +72,5 @@ In the images below, we first see the output of our code when we run 'python app
 
 
 
-## Summary
 
+<img width="422" alt="Screen Shot 2022-08-03 at 9 33 50 PM" src="https://user-images.githubusercontent.com/102444078/182763854-32264282-1906-4a3e-a1c4-e60cdb9439ef.png">
