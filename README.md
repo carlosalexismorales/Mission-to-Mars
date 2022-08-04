@@ -44,6 +44,30 @@ In the image below, we see the code that is being used to scrap the website for 
 
 
 
+In the image below, we see the code that is being used to scrape the hemisphere data from the website - this code indicates that it automatically goes to the browser and gathers the images that will be displayed on the web app. 
+
+
+
+
+
+<img width="849" alt="Screen Shot 2022-08-03 at 9 27 44 PM" src="https://user-images.githubusercontent.com/102444078/182763201-9fd2e370-4777-4141-8356-93cf1913f4b2.png">
+
+
+
+
+
+
+In the images below, we first see the output of our code when we run 'python app.py' in our termina - the images that we wanted are displayed in a stylish manner. Second, we see that the web app is also mobile-responsive. 
+
+
+<img width="1425" alt="Screen Shot 2022-08-03 at 9 28 41 PM" src="https://user-images.githubusercontent.com/102444078/182763314-9b2c4d70-a082-489f-874b-85512064257a.png">
+
+
+
+
+
+
+<img width="1438" alt="Screen Shot 2022-08-03 at 9 31 10 PM" src="https://user-images.githubusercontent.com/102444078/182763584-9d5117b7-129e-4910-92d7-a494e2db046a.png">
 
 
 
