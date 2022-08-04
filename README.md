@@ -32,6 +32,21 @@ In the image below, we see the code that is being used to scrap the website for 
 
 
 
+<img width="1095" alt="Screen Shot 2022-08-03 at 9 24 39 PM" src="https://user-images.githubusercontent.com/102444078/182762861-c53991bd-ccf3-4bcf-ba9f-0cfb2abadbf1.png">
+
+
+
+
+
+<img width="1093" alt="Screen Shot 2022-08-03 at 9 25 07 PM" src="https://user-images.githubusercontent.com/102444078/182762909-c37d87ad-73fc-4b82-a633-379020ffebe5.png">
+
+
+
+
+
+
+
+
 
 ## Summary
 
